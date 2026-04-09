@@ -29,6 +29,7 @@ El dataset original fue normalizado en 5 tablas:
 
 ## Estructura del repositorio
 
+```
 retail-sales-analysis/
 ├── data/
 │   ├── raw/          ← dataset original sin modificaciones
@@ -43,8 +44,9 @@ retail-sales-analysis/
 ├── powerbi/
 │   └── retail_sales_analysis.pbix
 └── docs/
-│   └──  Retail_Sales_Analysis_Documentation.docx
-│   └──  retail_sales_analysis_wireframe.fig
+    ├── Retail_Sales_Analysis_Documentation.docx
+    └── retail_sales_analysis_wireframe.fig
+```
 
 
 ## Principales hallazgos
