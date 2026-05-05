@@ -3,19 +3,19 @@
 Análisis de datos end-to-end sobre un dataset de ventas retail, recorriendo el ciclo completo desde la limpieza y modelado del dato hasta la visualización de insights accionables de negocio.
 
 ## Dashboard
-
+ 
 ### Resumen General
 ![Resumen General](docs/Resumen_General.png)
-
+ 
 ### Productos y Categorías
 ![Productos y Categorías](docs/Productos_y_Categorías.png)
-
+ 
 ### Clientes y Segmentos
 ![Clientes y Segmentos](docs/Clientes_y_Segmentos.png)
-
+ 
 ### Análisis Geográfico
 ![Análisis Geográfico](docs/Análisis_Geográfico.png)
-
+ 
 ---
 
 ## Herramientas utilizadas
