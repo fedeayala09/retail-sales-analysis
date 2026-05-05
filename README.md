@@ -5,16 +5,16 @@ Análisis de datos end-to-end sobre un dataset de ventas retail, recorriendo el 
 ## Dashboard
 
 ### Resumen General
-![Resumen General](docs/screenshots/Resumen_General.png)
+![Resumen General](docs/Resumen_General.png)
 
 ### Productos y Categorías
-![Productos y Categorías](docs/screenshots/Productos_y_Categorías.png)
+![Productos y Categorías](docs/Productos_y_Categorías.png)
 
 ### Clientes y Segmentos
-![Clientes y Segmentos](docs/screenshots/Clientes_y_Segmentos.png)
+![Clientes y Segmentos](docs/Clientes_y_Segmentos.png)
 
 ### Análisis Geográfico
-![Análisis Geográfico](docs/screenshots/Análisis_Geográfico.png)
+![Análisis Geográfico](docs/Análisis_Geográfico.png)
 
 ---
 
